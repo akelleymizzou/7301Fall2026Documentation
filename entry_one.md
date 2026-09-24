@@ -1,0 +1,3 @@
+# Entry One, first machine...
+
+This is the first time I've pushed documents like this into github, so lets go!
